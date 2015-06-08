@@ -1,0 +1,27 @@
+\documentclass{scrartcl}
+\usepackage{scrlayer-scrpage}
+\usepackage{xcolor}
+\DeclareLayer[background, 
+	contents=\color{gray!50}\rule{1.08\textwidth}{3pt},
+	hoffset=2cm,
+	voffset=5cm,
+]{titlelineHor}
+\DeclareLayer[background, 
+	contents=\color{gray!50}\rule{3pt}{1.3\textwidth},
+	hoffset=8cm,
+	voffset=1cm,
+]{titlelineVert}
+\usepackage{tgpagella}
+\begin{document}
+\begin{titlepage}
+	\AddLayersToPageStyle{empty}{titlelineHor,titlelineVert}
+	\setlength{\parindent}{0pt}
+	\vspace*{6cm}
+	\raggedleft
+	{\color{gray!80}\Huge Hermann Zapf}\par
+	\vspace{1cm}
+	{\color{gray!90}\scriptsize November 8, 1918 -- June 4, 2015}
+\end{titlepage}
+\end{document}
+%using package `scrlayer-scrpage` lines or any other material can
+%be placed on the background of a page. 
