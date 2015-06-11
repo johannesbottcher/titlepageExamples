@@ -1,0 +1,33 @@
+% arara: lualatex
+\documentclass{scrbook}
+\usepackage{fontspec}
+\setmainfont{EBGaramond}
+\begin{document}
+\begin{titlepage}
+	\setlength{\parindent}{0pt}
+	\centering  Dixie Dancing Ducks\par
+\end{titlepage}
+\begin{titlepage}
+	\centering
+	\vspace*{.15\textheight}
+	{\Large\addfontfeature{Letters=SmallCaps} Paulo Duck\par}
+	\vspace*{.15\textheight}
+	{\itshape\Huge Dixie Dancing Ducks\par}
+	\vfill
+	\centering
+	2015\par
+	Pond Press Ltd., The Pond
+	\vspace{.05\textheight}
+\end{titlepage}
+	Dedicated to all the ducks in the world\par
+	\vfill
+	\thispagestyle{empty}
+	\begin{flushleft}
+		Paulo Duck\\
+		Dixie Dancing Ducks\\
+		2015\\
+		Typeset using LuaLaTeX and EB Garamond\\
+	\end{flushleft}
+\tableofcontents
+\chapter{Introduction}
+\end{document}
