@@ -8,6 +8,7 @@ compile. Special requirements will be noted in comments. There is
 absolutely no naming scheme, names will mostly consist of animal
 names.
 
+-------
 
 [The titlepage is one of the first pages of a book or thesis. This
 page contains only the title in a fashion similar to the rest of

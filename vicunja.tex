@@ -1,0 +1,22 @@
+% arara: lualatex
+\documentclass[paper=b5]{scrbook}
+\usepackage{showframe}
+\usepackage{fontspec}
+\usepackage{dantelogo}
+\usepackage{graphicx}
+\begin{document}
+\begin{titlepage}
+	\setlength{\parindent}{0pt}
+{
+\centering 
+{\fontsize{32pt}{36pt}\selectfont\bfseries Bibliografien mit \LaTeX\par}
+\vspace{.2\textheight}
+{\Large Herbert Voß\par}
+{\small\itshape Berlin\par}
+}
+\vfill
+\Large\dantelogo\hfill\includegraphics[width=4cm,height=1cm]{example-image-16x9}
+\end{titlepage}
+\end{document}
+
+
