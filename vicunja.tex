@@ -1,14 +1,19 @@
 % arara: lualatex
 \documentclass[paper=b5]{scrbook}
-\usepackage{fontspec}
+\usepackage{libertine}
 \usepackage{dantelogo}
 \usepackage{graphicx}
+\usepackage{hologo}
+\usepackage{showframe}
 \begin{document}
 \begin{titlepage}
 	\setlength{\parindent}{0pt}
+	\vspace*{1cm}
 {
 \centering 
-{\fontsize{32pt}{36pt}\selectfont\bfseries Bibliografien mit \LaTeX\par}
+{\fontsize{26pt}{30pt}\selectfont Bibliografien mit \par
+\Hologo{LaTeX}\par
+}
 \vspace{.2\textheight}
 {\Large Herbert Voß\par}
 {\small\itshape Berlin\par}
@@ -17,5 +22,3 @@
 \Large\dantelogo\hfill\includegraphics[width=4cm,height=1cm]{example-image-16x9}
 \end{titlepage}
 \end{document}
-
-
