@@ -1,0 +1,38 @@
+% arara: lualatex
+\documentclass{book}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Termes}
+\setsansfont{TeX Gyre Heros}
+\begin{document}
+\begin{titlepage}
+	% %https://github.com/johannesbottcher/titlepageExamples/blob/master/wolverine.tex
+	\setlength{\parindent}{0pt}
+	\rule{\textwidth}{2pt}\par
+	\vspace{1.3cm}
+	\sffamily{
+	\Huge
+	\addfontfeature{Letters=Uppercase,LetterSpace=5,WordSpace=1.1}
+	\raggedright
+	\MakeUppercase{
+	Jim Jefferson  is a really hungry Jackal }
+	\par}
+	\rule{\textwidth}{1.2pt}\par
+	\vspace{1.7cm}
+	{\addfontfeature{Letters=Uppercase,LetterSpace=5,WordSpace=1.1}
+\bfseries \MakeUppercase{Jean-Luc Picard}}\par
+University of the Enterprise\par
+Institute of Earl Grey
+\bigbreak
+	{\addfontfeature{Letters=Uppercase,LetterSpace=5,WordSpace=1.1}
+	\bfseries \MakeUppercase{James Tiberius Kirk}}\par 
+ Universidad de la República\par
+ Facultad de Ciencias\par
+\vfill
+{\fontsize{50pt}{50pt}\fontspec{TeX Gyre Chorus}P\kern-.2em K\par}
+\medbreak
+	{\addfontfeature{Letters=Uppercase,LetterSpace=5,WordSpace=1.1}
+A publishers Publication\par}
+\end{titlepage}
+\end{document}
+% Since the Letters feature is currently not available in the
+% font, the more generic `MakeUppercase came to use. 

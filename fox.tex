@@ -1,0 +1,43 @@
+\documentclass[a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xcolor}
+\geometry{margin=25mm}
+
+\newlength{\drop}%
+\begin{document}
+	\begin{titlepage}
+	%https://github.com/johannesbottcher/titlepageExamples/blob/master/fox.tex
+		\setlength{\parindent}{0pt}
+\fontfamily{pplj}\selectfont
+	\drop=0.1\textheight
+	\vspace*{0.5\drop}
+	\centering
+	{\huge\sffamily\bfseries
+		UNIVERSITY \par
+	\Large\sffamily\mdseries Department\par}
+	\vspace{2\baselineskip}
+	{\LARGE\sffamily\bfseries TITLE\par}
+	\vfill
+	{\Large Master's Thesis\\ 30 \textsc{ects} points\par}
+	\vfill
+	{\large \textbf{Author}\par
+	NAME\par
+	EDUCATION\par
+	\textbf{Supervisors}\par
+	NAME AND TITLE\par
+	\textbf{Submitted}\par
+DATE\par}
+
+\vspace{\drop}
+
+%\includegraphics[width=.35\linewidth]{example-image-a}\par
+% The original use case was to have a graphic of the signature here
+{\color{gray!50}\fontsize{40pt}{56pt}\usefont{T1}{qzc}{m}{it} Arthur Author\par}
+\vspace{-.7\baselineskip}
+	{\large\normalfont\bfseries NAME\par}
+\end{titlepage}
+\end{document}
+% http://tex.stackexchange.com/questions/204441/creating-overlapping-text-and-image/250078#250078
