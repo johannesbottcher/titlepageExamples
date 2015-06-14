@@ -1,12 +1,15 @@
-# titlepages
+# titlepageExamples
 
 Some titlepages done in LaTeX. Those are mere examples, there is
 no warranty that the code will work for your projects or that the
 code is in any form *correct*. Use it at your own risk and with
 some common sense. All examples are self-contained and ready to
-compile. Special requirements will be noted in comments. There is
+compile. In most examples, the documentclass can be changed if
+needed.  Special requirements will be noted in comments. There is
 absolutely no naming scheme, names will mostly consist of animal
-names.
+names. If you decide to use one of the examples as a base for
+your own titlepage, please leave a link to the example in your
+tex-code.
 
 -------
 
@@ -21,7 +24,7 @@ the book or thesis or report. That means at least, that the font
 has to match.
 
 A titlepage, not to be confused with a cover, is somehow static.
-It often needs special formatting, to follow some university
+It often needs special formatting (especially margins), to follow some university
 requirements. It is possible to change the page layout just for
 the titlepage, but it isn't worth the trouble. It is much easier
 to simply generate the titlepage in an extra document and include
