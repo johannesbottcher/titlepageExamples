@@ -1,4 +1,4 @@
-# titlepageExamples
+# Examples of LaTeX title pages
 
 Some titlepages done in LaTeX. Those are mere examples, there is
 no warranty that the code will work for your projects or that the
@@ -24,13 +24,16 @@ the book or thesis or report. That means at least, that the font
 has to match.
 
 A titlepage, not to be confused with a cover, is somehow static.
-It often needs special formatting (especially margins), to follow some university
-requirements. It is possible to change the page layout just for
-the titlepage, but it isn't worth the trouble. It is much easier
-to simply generate the titlepage in an extra document and include
-it in the real project using package `pdfpages`.
+It often needs special formatting (especially margins), to follow
+some university requirements. It is possible to change the page
+layout just for the titlepage, but it isn't worth the trouble. It
+is much easier to simply generate the titlepage in an extra
+document and include it in the real project using package
+`pdfpages`.
 
 
 Some of the examples here come from the inital answer at [How to
 customize my
-titlepage](http://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage). Many more examples of titlepages can be found at [TitlePages on CTAN](https://www.ctan.org/tex-archive/info/latex-samples/TitlePages).
+titlepage](http://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage).
+Many more examples of titlepages can be found at [TitlePages on
+CTAN](https://www.ctan.org/tex-archive/info/latex-samples/TitlePages).
