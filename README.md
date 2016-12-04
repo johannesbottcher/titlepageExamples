@@ -1,15 +1,18 @@
 # Examples of LaTeX title pages
 
-Some titlepages done in LaTeX. Those are mere examples, there is
-no warranty that the code will work for your projects or that the
-code is in any form *correct*. Use it at your own risk and with
-some common sense. All examples are self-contained and ready to
-compile. In most examples, the documentclass can be changed if
-needed.  Special requirements will be noted in comments. There is
-absolutely no naming scheme, names will mostly consist of animal
-names. If you decide to use one of the examples as a base for
-your own titlepage, please leave a link to the example in your
-tex-code.
+Some titlepages done in LaTeX, a png preview is available for
+some of them. Click on *view Code* on mobile devices to get the
+list of files.
+
+Those are mere examples, there is no warranty that the code will
+work for your projects or that the code is in any form *correct*.
+Use it at your own risk and with some common sense.  All examples
+are self-contained and ready to compile. In most examples, the
+documentclass can be changed if needed.  Special requirements
+will be noted in comments. There is absolutely no naming scheme,
+names will mostly consist of animal names. If you decide to use
+one of the examples as a base for your own titlepage, please
+leave a link to the example in your tex-code.
 
 -------
 
