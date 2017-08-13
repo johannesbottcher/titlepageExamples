@@ -40,3 +40,9 @@ customize my
 titlepage](http://tex.stackexchange.com/questions/209993/how-to-customize-my-titlepage).
 Many more examples of titlepages can be found at [TitlePages on
 CTAN](https://www.ctan.org/tex-archive/info/latex-samples/TitlePages).
+
+
+Almost all examples use the `titlepage`  environment. If you are
+going to include the titlepage as a separate pdf in your main
+document, you can replace the environment by a simple
+`\pagestyle{ampty}`.
