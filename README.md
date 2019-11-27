@@ -49,95 +49,95 @@ document, you can replace the environment by a simple
 
 # Preview
 
-##ant
+## ant
 
 ![ant](ant.png)
 
-##badger
+## badger
 
 ![badger](badger.png)
 
-##bobcat
+## bobcat
 
 ![bobcat](bobcat.png)
 
-##butterfly
+## butterfly
 
 ![butterfly](butterfly.png)
 
-##capybara
+## capybara
 
 ![capybara](capybara.png)
 
-##duck
+## duck
 
 ![duck](duck.png)
 
-##eel
+## eel
 
 ![eel](eel.png)
 
-##elk
+## elk
 
 ![elk](elk.png)
 
-##fhjena
+## fhjena
 
 ![fhjena](fhjena.png)
 
-##fox
+## fox
 
 ![fox](fox.png)
 
-##heron
+## heron
 
 ![heron](heron.png)
 
-##jellyfish
+## jellyfish
 
 ![jellyfish](jellyfish.png)
 
-##mosquito
+## mosquito
 
 ![mosquito](mosquito.png)
 
-##ostrich
+## ostrich
 
 ![ostrich](ostrich.png)
 
-##platypus
+## platypus
 
 ![platypus](platypus.png)
 
-##quail
+## quail
 
 ![quail](quail.png)
 
-##rhinoceros
+## rhinoceros
 
 ![rhinoceros](rhinoceros.png)
 
-##termite
+## termite
 
 ![termite](termite.png)
 
-##title-creation
+## title-creation
 
 ![title-creation](title-creation.png)
 
-##vulture0
+## vulture0
 
 ![vulture0](vulture0.png)
 
-##vulture1
+## vulture1
 
 ![vulture1](vulture1.png)
 
-##walrus
+## walrus
 
 ![walrus](walrus.png)
 
-##xerinae
+## xerinae
 
 ![xerinae](xerinae.png)
 
