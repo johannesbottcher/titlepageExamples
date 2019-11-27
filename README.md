@@ -46,3 +46,98 @@ Almost all examples use the `titlepage`  environment. If you are
 going to include the titlepage as a separate pdf in your main
 document, you can replace the environment by a simple
 `\pagestyle{ampty}`.
+
+# Preview
+
+## ant
+
+![ant](ant.png)
+
+## badger
+
+![badger](badger.png)
+
+## bobcat
+
+![bobcat](bobcat.png)
+
+## butterfly
+
+![butterfly](butterfly.png)
+
+## capybara
+
+![capybara](capybara.png)
+
+## duck
+
+![duck](duck.png)
+
+## eel
+
+![eel](eel.png)
+
+## elk
+
+![elk](elk.png)
+
+## fhjena
+
+![fhjena](fhjena.png)
+
+## fox
+
+![fox](fox.png)
+
+## heron
+
+![heron](heron.png)
+
+## jellyfish
+
+![jellyfish](jellyfish.png)
+
+## mosquito
+
+![mosquito](mosquito.png)
+
+## ostrich
+
+![ostrich](ostrich.png)
+
+## platypus
+
+![platypus](platypus.png)
+
+## quail
+
+![quail](quail.png)
+
+## rhinoceros
+
+![rhinoceros](rhinoceros.png)
+
+## termite
+
+![termite](termite.png)
+
+## title-creation
+
+![title-creation](title-creation.png)
+
+## vulture0
+
+![vulture0](vulture0.png)
+
+## vulture1
+
+![vulture1](vulture1.png)
+
+## walrus
+
+![walrus](walrus.png)
+
+## xerinae
+
+![xerinae](xerinae.png)
+
